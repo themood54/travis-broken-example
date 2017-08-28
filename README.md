@@ -1,4 +1,3 @@
-# travis-broken-example
+# step out of the rabit hole
 travis-broken-example
-a bunch crap i screwed up and am to stupid to fix, install, deploy, debug and or all of them. so i just leave them here untill you fix them or travis fixes them
-if im lucky internet_entity wil decide he need s somthing in one and hell fix it up real nice for me.
+a test to see if travis.ci can indeed install and send back a working program as you see im sending in program that would take me weeks to install by the time i got all the software and got it working on the same path got the dependencied and libraies and that is just the install. nothning to do with filling the app and deploying. So this app is basically problem free it will deploy install and run if you are really smart and have lots of time and a really good computer. You can cheat you can istall mvn and some other short cuts but it wont fucntion correctly if you do. so lets see what travis makes of this, is good test. If it passes, well my life got way easier and happier and ill spread the word. step out of the rabbit hole and go back to building your project.  this program is the worst piece of ____ i have seen. its a rabit hole from hell no way back but lose monthes of your life and buy your way out. unless this works then we eat the rabbit.
