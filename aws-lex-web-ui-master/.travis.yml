@@ -2,7 +2,7 @@ language: node_js
 node_js:
   - "iojs"
   - "7"
-
+language: node_js
 
 
 # install npm package from github repo
